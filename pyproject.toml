@@ -8,6 +8,8 @@ authors = ["Aboussejra <amir@epigno.jp>"]
 python = "^3.9"
 numpy = "^1.22.2"
 matplotlib = "^3.5.1"
+spyder = "^5.2.2"
+statsmodels = "^0.13.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
